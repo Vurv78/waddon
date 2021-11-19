@@ -1,0 +1,6 @@
+/target
+Cargo.lock
+bindings.cpp
+.vscode
+waddon.lua
+*.wasm

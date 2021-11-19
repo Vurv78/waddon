@@ -1,0 +1,6 @@
+namespace global
+{
+	int add_one(int x);
+	DOMString ret_str(DOMString x);
+	int json_test(DOMString x);
+};
