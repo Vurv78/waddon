@@ -1,3 +1,6 @@
 [submodule "tiny-json"]
 	path = tiny-json
 	url = https://github.com/rafagafe/tiny-json
+[submodule "pocketlang"]
+	path = pocketlang
+	url = https://github.com/ThakeeNathees/pocketlang

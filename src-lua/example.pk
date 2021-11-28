@@ -1,0 +1,3 @@
+from Waddon import pi
+
+print("Waddon.pi() =", pi())

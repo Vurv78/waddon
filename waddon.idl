@@ -1,6 +1,10 @@
+namespace json {
+	int get_field_int(DOMString x, DOMString field);
+};
+
 namespace global
 {
 	int add_one(int x);
-	DOMString ret_str(DOMString x);
-	int json_test(DOMString x);
+	DOMString append_char(DOMString x);
+	int pklang(DOMString input);
 };
